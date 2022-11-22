@@ -15,7 +15,7 @@ I'm Conor, a software developer from Ireland.
 
 ⌚︎ Time Zone: Ireland/UK
 
-## 🤓 Other Info:
+## 📈 Other Info:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConorShirren&count_private=true&theme=tokyonight&show_icons=true)
