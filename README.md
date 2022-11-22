@@ -2,7 +2,7 @@
 
 I'm Conor, a software developer from Ireland.
 
-- 👩‍🚒 Production Firefighter, [Humane Tech Advocate](https://www.humanetech.com/), Diving into Open Source.
+- 👩‍🚒 Production Firefighter, [Humane Tech Advocate](https://www.humanetech.com/), Starting my journey into Open Source.
 - 💻 Senior Software Engineer Working @ [Liberty IT](https://www.liberty-it.co.uk/about-us/overview) - prev. [eComm Merchant Solutions](https://ecomm365.com/), [General Motors](https://www.gm.com/) and more!
 - 🔍 Learn more about me [here](https://conorshirren-dev.herokuapp.com/)
 
@@ -16,10 +16,13 @@ I'm Conor, a software developer from Ireland.
 ⌚︎ Time Zone: Ireland/UK
 
 ## 📈 Other Info:
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ConorShirren&theme=tokyonight&show_icons=true" alt="Aditya's Github Stats" width="45%"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ConorShirren&theme=tokyonight" width="45%">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConorShirren&layout=compact&theme=tokyonight&hide=css,scss,Handlebars,Makefile,Less,jupyter%20notebook&langs_count=10" width="40%">
+</p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConorShirren&count_private=true&theme=tokyonight&show_icons=true)
-<br/>
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 <summary><b>🛠️  Languages and Tools</b></summary>
