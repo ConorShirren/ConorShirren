@@ -10,7 +10,7 @@ I'm Conor, a software developer from Ireland.
 
 - 📧 Email: [cshirren@gmail.com](mailto:cshirren@gmail.com)
 - 💻 Website: [conorshirren.dev](https://conorshirren-dev.herokuapp.com/)
-- 🐦 Twitter: [@shirro_c](https://twitter.com/KodingDev_)
+- 🐦 Twitter: [@shirro_c](https://twitter.com/shirro_c)
 - 📊 LinkedIn: [Here](https://www.linkedin.com/in/conor-shirren1/)
 
 ⌚︎ Time Zone: Ireland/UK
