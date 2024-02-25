@@ -2,7 +2,7 @@
 
 I'm Conor, a software developer from Ireland.
 
-- Production Firefighter👩‍🚒 , [Humane Tech Advocate](https://www.humanetech.com/)🪴 , Starting my journey into Open Source 🌎 .
+- Production Firefighter👩‍🚒 , [Humane Tech Advocate](https://www.humanetech.com/)🪴
 - 💻 Senior Software Engineer Working @ [Liberty IT](https://www.liberty-it.co.uk/about-us/overview) - prev. [eComm Merchant Solutions](https://ecomm365.com/), [General Motors](https://www.gm.com/) and more!
 - 🔍 Learn more about me [here](https://conorshirren-dev.herokuapp.com/)
 
@@ -13,7 +13,7 @@ I'm Conor, a software developer from Ireland.
 - 🐦 Twitter: [@shirro_c](https://twitter.com/shirro_c)
 - 📊 LinkedIn: [Here](https://www.linkedin.com/in/conor-shirren1/)
 
-⌚︎ Time Zone: Ireland/UK
+⌚︎ Time Zone: Melbourne VIC, Australia (GMT+11)
 
 ## 📈 Other Info:
 <p align="center"> 
