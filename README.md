@@ -1,31 +1,20 @@
 ## 👋 Thanks for stopping by!
 
-I'm Conor, a software developer from Ireland.
+I'm Conor, an Irish developer living in Melbourne, Australia 🇦🇺.
 
-- Production Firefighter👩‍🚒 , [Humane Tech Advocate](https://www.humanetech.com/)🪴
-- 💻 Senior Software Engineer Working @ [Liberty IT](https://www.liberty-it.co.uk/about-us/overview) - prev. [eComm Merchant Solutions](https://ecomm365.com/), [General Motors](https://www.gm.com/) and more!
-- 🔍 Learn more about me [here](https://conorshirren-dev.herokuapp.com/)
+- Software Developer @ [Visory](https://www.visory.com.au/)
+  - Ex Senior Software Engineer Working @ [Liberty IT](https://www.liberty-it.co.uk/about-us/overview),
+  - Ex Software Developer @ [eComm Merchant Solutions](https://ecomm365.com/),
+  - Ex Network Engineer @ [General Motors](https://www.gm.com/)
 
-## 📚 Socials
+## 📚 Get in Touch:
 
 - 📧 Email: [cshirren@gmail.com](mailto:cshirren@gmail.com)
-- 💻 Website: [conorshirren.dev](https://conorshirren-dev.herokuapp.com/)
+- 💻 Portfolio: [conorshirren.dev](https://conorshirren-dev.herokuapp.com/) [INACTIVE]
 - 🐦 Twitter: [@shirro_c](https://twitter.com/shirro_c)
 - 📊 LinkedIn: [Here](https://www.linkedin.com/in/conor-shirren1/)
 
 ⌚︎ Time Zone: Melbourne VIC, Australia (GMT+11)
-
-## 📈 Other Info:
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ConorShirren&theme=tokyonight&show_icons=true" alt="Aditya's Github Stats" width="45%"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ConorShirren&theme=tokyonight" width="45%">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConorShirren&layout=compact&theme=tokyonight&hide=css,scss,Handlebars,Makefile,Less,jupyter%20notebook&langs_count=10" width="40%">
-</p>
-
-
-**NOTE:** Some stats may be incorrect as contributions to organizations
-are not counted.
-<summary><b>🛠️  Languages and Tools</b></summary>
     <br/>
     <p align="center">
         <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
