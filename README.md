@@ -2,7 +2,9 @@
 
 I'm Conor, an Irish developer living in Melbourne, Australia 🇦🇺.
 
-- Software Developer @ [Visory](https://www.visory.com.au/)
+Actively interviewing for roles in Ireland.
+
+  - Ex Software Engineer @ [Visory](https://www.visory.com.au/)
   - Ex Senior Software Engineer Working @ [Liberty IT](https://www.liberty-it.co.uk/about-us/overview),
   - Ex Software Developer @ [eComm Merchant Solutions](https://ecomm365.com/),
   - Ex Network Engineer @ [General Motors](https://www.gm.com/)
