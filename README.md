@@ -3,17 +3,13 @@
 I'm Conor, an Irish developer living in Melbourne, Australia 🇦🇺.
 
 Actively interviewing for roles in Ireland.
-
-  - Ex Software Engineer @ [Visory](https://www.visory.com.au/)
-  - Ex Senior Software Engineer Working @ [Liberty IT](https://www.liberty-it.co.uk/about-us/overview),
-  - Ex Software Developer @ [eComm Merchant Solutions](https://ecomm365.com/),
+  - Software Engineer @ [G-P](https://www.globalization-partners.com)
+  - Ex Software Engineer @ [Visory](https://www.visory.com.au/), [Liberty IT](https://www.liberty-it.co.uk/about-us/overview), [eComm Merchant Solutions](https://ecomm365.com/),
   - Ex Network Engineer @ [General Motors](https://www.gm.com/)
 
 ## 📚 Get in Touch:
 
 - 📧 Email: [cshirren@gmail.com](mailto:cshirren@gmail.com)
-- 💻 Portfolio: [conorshirren.dev](https://conorshirren-dev.herokuapp.com/) [INACTIVE]
-- 🐦 Twitter: [@shirro_c](https://twitter.com/shirro_c)
 - 📊 LinkedIn: [Here](https://www.linkedin.com/in/conor-shirren1/)
 
 ⌚︎ Time Zone: Melbourne VIC, Australia (GMT+11)
