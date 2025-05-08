@@ -1,18 +1,15 @@
-## 👋 Thanks for stopping by!
+### Welcome! 🪂
+A passionate, detail-oriented and proactive software engineer with a proven history of building out scalable and resilient event-driven distributed systems. Skilled in Node.js/Typescript with a Serverless-First mindset. 
 
-I'm Conor, an Irish developer living in Melbourne, Australia 🇦🇺.
-
-Actively interviewing for roles in Ireland.
   - Software Engineer @ [G-P](https://www.globalization-partners.com)
   - Ex Software Engineer @ [Visory](https://www.visory.com.au/), [Liberty IT](https://www.liberty-it.co.uk/about-us/overview), [eComm Merchant Solutions](https://ecomm365.com/),
   - Ex Network Engineer @ [General Motors](https://www.gm.com/)
 
-## 📚 Get in Touch:
+### Get in Touch:
 
 - 📧 Email: [cshirren@gmail.com](mailto:cshirren@gmail.com)
 - 📊 LinkedIn: [Here](https://www.linkedin.com/in/conor-shirren1/)
 
-⌚︎ Time Zone: Melbourne VIC, Australia (GMT+11)
     <br/>
     <p align="center">
         <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
